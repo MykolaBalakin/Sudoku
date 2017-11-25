@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solver", "Solver\Solver.csproj", "{B7512965-0A8B-4901-B772-AA00B3F0D8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{E59695CD-7177-4E76-BE99-8B5A329BE32A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{07C99907-FFA5-4EC6-93D9-C9AD82BAFD7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Tests\Core\Core.csproj", "{A3378D1A-1EFB-40F5-962E-990B5AFE46F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solver", "Tests\Solver\Solver.csproj", "{EF35C7A2-B54A-4102-B7D8-3575098E7203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3378D1A-1EFB-40F5-962E-990B5AFE46F4} = {07C99907-FFA5-4EC6-93D9-C9AD82BAFD7E}
+		{EF35C7A2-B54A-4102-B7D8-3575098E7203} = {07C99907-FFA5-4EC6-93D9-C9AD82BAFD7E}
+	EndGlobalSection
+EndGlobal

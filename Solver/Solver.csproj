@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Balakin.Sudoku.Solver</RootNamespace>
+  </PropertyGroup>
+</Project>
