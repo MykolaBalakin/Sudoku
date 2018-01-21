@@ -3,6 +3,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <PropertyGroup>
+    <AssemblyName>Balakin.Sudoku.Solver</AssemblyName>
     <RootNamespace>Balakin.Sudoku.Solver</RootNamespace>
   </PropertyGroup>
 </Project>

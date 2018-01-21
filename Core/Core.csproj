@@ -3,6 +3,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <PropertyGroup>
+    <AssemblyName>Balakin.Sudoku.Core</AssemblyName>
     <RootNamespace>Balakin.Sudoku.Core</RootNamespace>
   </PropertyGroup>
 </Project>

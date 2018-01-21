@@ -4,6 +4,7 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
   <PropertyGroup>
+    <AssemblyName>Balakin.Sudoku.Tests.Core</AssemblyName>
     <RootNamespace>Balakin.Sudoku.Tests.Core</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
